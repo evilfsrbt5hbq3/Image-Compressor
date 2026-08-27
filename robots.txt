@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evilfsrbt5hbq3.github.io/Image-Compressor/sitemap.xml
